@@ -47,7 +47,7 @@
 
  /* imagens*/
 
- img{
+ .foto {
     width: 250px;
     height: 250px;
 
@@ -57,7 +57,7 @@
     transition: 0.5s;
  }
 
- img:hover {
+ .foto:hover {
     
     box-shadow: 0 0 10px var(--cor-terciaria);
     cursor: pointer;
